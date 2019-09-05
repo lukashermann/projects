@@ -4,7 +4,7 @@ June 2019, at Autonomous Intelligent Systems Department (Prof. Burgard), Univers
 
 PDF: https://lukashermann.github.io/documents/master_thesis_lukas_hermann.pdf
 
-Full Video: https://drive.google.com/open?id=1CUZp0qcO3QOK35RZNUKx1fdS5xcNfvYN
+Video: https://drive.google.com/open?id=1CUZp0qcO3QOK35RZNUKx1fdS5xcNfvYN
 
 Slides: https://docs.google.com/presentation/d/1g3rtThKQm9rVPIJ9ZWtKGP-jyGepiWvqdPOYLlSbk7g/edit?usp=sharing
 
@@ -25,3 +25,12 @@ Video: https://drive.google.com/file/d/1aARnNvFvkm6726dRfkiGwYL6s4BngtLO/view?us
 Slides: https://docs.google.com/presentation/d/1mBpKiaKNxbVqzbcMK8sCbB2iZpj-pLRQUgpGpnn4lNA/edit?usp=sharing
 
 <img src="/images/jaco_final.gif" alt="drawing" width="400"/>
+
+
+# Bachelor Thesis
+**Hand Orientation Estimation using Deep Neural Networks**\
+Sep 2015, at Autonomous Intelligent Systems Department (Prof. Burgard), University of Freiburg
+
+PDF: https://lukashermann.github.io/documents/bachelor_thesis_lukas_hermann.pdf
+
+Video: https://drive.google.com/file/d/0B2IKP_2zVuAgaTI5T01wbDJkREk/view?usp=sharing
