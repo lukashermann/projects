@@ -24,3 +24,4 @@ Video: https://drive.google.com/file/d/1aARnNvFvkm6726dRfkiGwYL6s4BngtLO/view?us
 
 Slides: https://docs.google.com/presentation/d/1mBpKiaKNxbVqzbcMK8sCbB2iZpj-pLRQUgpGpnn4lNA/edit?usp=sharing
 
+<img src="/images/jaco_final.gif" alt="drawing" width="400"/>
