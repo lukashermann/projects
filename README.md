@@ -2,7 +2,7 @@
 **Adaptive Curriculum Generation from Demonstrations**\
 June 2019, at Autonomous Intelligent Systems Department (Prof. Burgard), University of Freiburg
 
-PDF: https://lukashermann.github.io/documents/master_thesis_lukas_hermann.pdf
+PDF: https://lukashermann.github.io/projects/master_thesis_lukas_hermann.pdf
 
 Video: https://drive.google.com/open?id=1CUZp0qcO3QOK35RZNUKx1fdS5xcNfvYN
 
@@ -42,6 +42,6 @@ Sep 2015, at Autonomous Intelligent Systems Department (Prof. Burgard), Universi
 
 <img src="/images/bachelor_thesis_img.png" alt="drawing" width="400"/>  <img src="/images/bachelor_thesis_img2.png" alt="drawing" width="400"/>  
 
-PDF: https://lukashermann.github.io/documents/bachelor_thesis_lukas_hermann.pdf
+PDF: https://lukashermann.github.io/projects/bachelor_thesis_lukas_hermann.pdf
 
 Video: https://drive.google.com/file/d/0B2IKP_2zVuAgaTI5T01wbDJkREk/view?usp=sharing
