@@ -14,7 +14,7 @@ Simulation                |               Real World
 <img src="/images/sim.gif" alt="drawing" width="200"/> | <img src="/images/real.gif" alt="drawing" width="400"/> 
 
 
-# Master Project
+# Project
 **Vision-based Robot Manipulation with Natural Policy Gradient**\
 Jan 2018, at Autonomous Intelligent Systems Department (Prof. Burgard), University of Freiburg
 
@@ -26,6 +26,15 @@ Slides: https://docs.google.com/presentation/d/1mBpKiaKNxbVqzbcMK8sCbB2iZpj-pLRQ
 
 <img src="/images/jaco_final.gif" alt="drawing" width="400"/>
 
+# Project
+**Safe and Easy Bike Navigation in Rome**
+March 2017, at Department of Computer, Control, and Management Engineering (Prof. Anagnostopoulos), Sapienza Rome
+* Route planning for cyclists in Rome based on OpenStreetMap
+* Features :
+  * **Safe mode**: Avoid routes with high record of accidents, by incorporating a penalty in the routing algorithm. Uses public dataset of street accidents in Rome.  
+  * **Easy mode**: Prefer routes with flat route sections by minimizing elevation gain using topographic data provided by NASA.
+  
+Video: https://drive.google.com/open?id=1HVxF5WGvOXBkfsq1nBpqUm8caK59GJkF
 
 # Bachelor Thesis
 **Hand Orientation Estimation using Deep Neural Networks**\
