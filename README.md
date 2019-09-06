@@ -27,7 +27,7 @@ Slides: https://docs.google.com/presentation/d/1mBpKiaKNxbVqzbcMK8sCbB2iZpj-pLRQ
 <img src="/images/jaco_final.gif" alt="drawing" width="400"/>
 
 # Project
-**Safe and Easy Bike Navigation in Rome**
+**Safe and Easy Bike Navigation in Rome**\
 March 2017, at Department of Computer, Control, and Management Engineering (Prof. Anagnostopoulos), Sapienza Rome
 * Route planning for cyclists in Rome based on OpenStreetMap
 * Features :
@@ -39,6 +39,8 @@ Video: https://drive.google.com/open?id=1HVxF5WGvOXBkfsq1nBpqUm8caK59GJkF
 # Bachelor Thesis
 **Hand Orientation Estimation using Deep Neural Networks**\
 Sep 2015, at Autonomous Intelligent Systems Department (Prof. Burgard), University of Freiburg
+
+<img src="/images/bachelor_thesis_img.png" alt="drawing" width="400"/>  <img src="/images/bachelor_thesis_img2.png" alt="drawing" width="400"/>  
 
 PDF: https://lukashermann.github.io/documents/bachelor_thesis_lukas_hermann.pdf
 
