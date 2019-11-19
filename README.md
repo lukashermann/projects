@@ -1,3 +1,11 @@
+# Paper for ICRA 2020 (currently under review)
+**Adaptive Curriculum Generation from Demonstrations for Sim-to-Real Visuomotor Control**\
+Sep 2019, at Autonomous Intelligent Systems Department (Prof. Burgard) / Computer Vision Group (Prof. Brox), University of Freiburg
+
+PDF: https://arxiv.org/pdf/1910.07972.pdf
+
+Video: https://www.youtube.com/watch?v=bqMAvTFMlT0
+
 # Master Thesis
 **Adaptive Curriculum Generation from Demonstrations**\
 June 2019, at Autonomous Intelligent Systems Department (Prof. Burgard), University of Freiburg
